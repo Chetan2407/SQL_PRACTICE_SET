@@ -1,1 +1,1 @@
-## SQL practice questions set
+# SQL practice questions set
